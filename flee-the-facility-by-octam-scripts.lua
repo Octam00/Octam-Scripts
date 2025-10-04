@@ -741,7 +741,6 @@ end,
 })
 
 local Label = Home:CreateLabel("By Octam Scripts")
-local Label = Home:CreateLabel("By Octam Scripts")
 
 -- Cria um botão que copia o link e mostra uma notificação do Roblox
 local CopyButton = Home:CreateButton("Copiar Discord", function()
